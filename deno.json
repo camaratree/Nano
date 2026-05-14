@@ -1,9 +1,0 @@
-{
-  "name": "deno-xhttp-relay",
-  "version": "1.0.0",
-  "description": "Deno Deploy HTTP relay for upstream service",
-  "tasks": {
-    "start": "deno run --allow-net --allow-env main.js"
-  },
-  "imports": {}
-}
